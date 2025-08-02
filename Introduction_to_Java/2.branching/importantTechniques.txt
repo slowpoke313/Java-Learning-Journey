@@ -1,0 +1,32 @@
+Ternary operator: (to use if else in the same line)
+
+?:
+
+condition ? (if true then it will print this part) : (if false then it will print this part)
+
+see pic for better explanation.
+
+Switch statement: (to avoid using else if repeatedly)
+
+int variable
+switch(variable)
+{
+	case 1:
+		code
+		break;
+	case 2:
+		code
+		break;
+	case 3:
+		code
+		break;
+	  |
+	  |
+	default:
+		code
+}
+
+We need the break statement because if break is not used the code will execute all the cases from the matched case.
+
+Exercise: https://www.tutorjoes.in/java_programming_tutorial/switch_exercise_programs_in_java
+ 

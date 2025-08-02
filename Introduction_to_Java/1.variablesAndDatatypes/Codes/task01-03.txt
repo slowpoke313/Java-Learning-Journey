@@ -1,0 +1,1 @@
+For task01 to task03 try to think what the datatypes are and what the outputs will be. Then run them in your machine. See if the results match your thinking.

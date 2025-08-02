@@ -1,0 +1,7 @@
+do while:
+
+if we want to execute a loop once even the condition is false then we do, do{} while();
+do
+{
+
+}while();
