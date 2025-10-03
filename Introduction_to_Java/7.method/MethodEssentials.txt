@@ -1,0 +1,28 @@
+***Difference between function and method:
+Method is called through object of class, 
+but function is called directly.
+
+Methods are of two kinds:
+1. Built in method
+2. User define method
+
+Method declaration:
+
+[accessModifier] [methodType] [returnType] [methodName] (parameters)
+{
+	body of the method
+}
+
+accessModifier: access Modifier is the keyword that defines the accessibility of that class and its members.
+Ex: public, private
+
+methodType: method type is the keyword to define what type of method it would be. 
+Ex: static, instance, abstract, factory
+
+returnType: return type is what type of output we will be getting from that method. 
+Ex: void(used for no output), int, string, double
+
+methodName: its just the name of the method.
+
+parameters: parameters act as variables inside the method.
+
